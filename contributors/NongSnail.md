@@ -1,8 +1,8 @@
 # Contribution data
 
-- PR #1: https://github.com/creatorsgarten/open.source.in.th/pull/8
-- PR #2: https://github.com/ksupasate/GPTForAnything/pull/5
-- PR #3: https://github.com/creatorsgarten/techcal.dev/pull/126
+- PR 1: https://github.com/creatorsgarten/open.source.in.th/pull/8
+- PR 2: https://github.com/ksupasate/GPTForAnything/pull/5
+- PR 3: https://github.com/creatorsgarten/techcal.dev/pull/126
 
 # Say something!
 
