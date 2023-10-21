@@ -13,7 +13,7 @@ Oh, [and now for something *completely* different](https://www.youtube.com/watch
 If you saw fit, let's get in touch with me here:
 
 - [Facebook: Rachasak Ragkamnerd](https://fb.com/itpcc)
-- [Twitter: @itpcc)(https://twitter.com/itpcc) (Not X)
+- [Twitter: @itpcc](https://twitter.com/itpcc) (Not X)
 - [Mastodon: @itpcc@mastodon.in.th](https://mastodon.in.th/@itpcc)
 
 Thanks for ~~the Swags~~, I mean, this great Hacktoberfest! 
