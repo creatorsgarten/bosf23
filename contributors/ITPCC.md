@@ -8,7 +8,7 @@
 
 Hi, I'm ITPCC. I'm Rust (Crab Boi 🦀), PHP (Yeah I know 🐘), TypeScript (Duh!), and Python ([🥚, 🥓, 🫘, & 🥫](https://www.youtube.com/watch?v=jrZyZn5nVks)) developer!
 
-Oh, [and now for something *completely* different](https://www.youtube.com/watch?v=cOTQb1A5D2M), I also a [licensed Thai Attoney](https://www.lawyerscouncil.or.th/2019/2023/09/04/1-209/) too! (In fact, that's why I [did this project](https://github.com/itpcc/Thai-Law-Telegram-Bot) in the first place. Searching the truth in this country is really, *really*, bad isn't it?)
+Oh, [and now for something *completely* different](https://www.youtube.com/watch?v=cOTQb1A5D2M), I also am a [licensed Thai Attoney](https://www.lawyerscouncil.or.th/2019/2023/09/04/1-209/) too! (In fact, that's why I [did this project](https://github.com/itpcc/Thai-Law-Telegram-Bot) in the first place. Searching the truth in this country is really, *really*, bad isn't it?)
 
 If you saw fit, let's get in touch with me here:
 
