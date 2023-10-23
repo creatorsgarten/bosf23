@@ -1,12 +1,12 @@
 # Contribution data
 
-- PR #1: [paliament-watch](https://github.com/wevisdemo/parliament-watch)
+- PR 1: [paliament-watch](https://github.com/wevisdemo/parliament-watch)
   - [Proposer component](https://github.com/wevisdemo/parliament-watch/pull/31)
   - [Footer component](https://github.com/wevisdemo/parliament-watch/pull/15)
   - [Legistration process page -- overview section](https://github.com/wevisdemo/parliament-watch/pull/51)
-- PR #2: [hello-world](https://github.com/RealNattawattHongthong/hello-world/pull/3)
+- PR 2: [hello-world](https://github.com/RealNattawattHongthong/hello-world/pull/3)
   - [hello-world in esolang Trumpscript](https://github.com/RealNattawattHongthong/hello-world/pull/3) - Just remembered I did this once in fizz-buzz repository so I added here too
-- PR #3: [webring](https://github.com/wonderfulsoftware/webring)
+- PR 3: [webring](https://github.com/wonderfulsoftware/webring)
   - [Add RSS Feed and fix my site url](https://github.com/wonderfulsoftware/webring/pull/182)
 
 # Say something!
