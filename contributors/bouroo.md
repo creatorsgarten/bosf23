@@ -9,7 +9,7 @@ Hi, I'm Kate(เขต)\
 🌐 Remote Working lover.\
 🧑‍💻 Backend(Go) Dev & System(Linux) Admin.\
 🎮 Love to play games.\
-🏡 Like watching Japanese anime.\
+🏡 Like watching Japanese anime.
 
 More about me:
 
