@@ -12,6 +12,6 @@ Hi my name is ping (Codename is "pingkunga" pingkung is very common 555).
 
 I am a dotnet developer (WinForm / WebAPI) 
 
-Blogger (https://naiwaen.debuggingsoft.com/)
+I am a Blogger (https://naiwaen.debuggingsoft.com/)
 
 Nice to meet you all.
