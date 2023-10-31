@@ -7,4 +7,5 @@
 # Say something!
 Greetings,
 I'm Anner! was an enthusiast dude on programming, now a drained-out one after half a year through Thailand's university system.
+
 Enough with the dramatic part; I'm always eager and excited about making new friends! You can catch me up anytime via [My github profile](https://github.com/Annerez) or [My website](https://annerez.github.io/) (I have all my contacts in there)
