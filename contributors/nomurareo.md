@@ -6,5 +6,5 @@
 
 # Say something!
 
-Hello I'm Nomura Reo, A Vtuber interesting in cybersecurity from Thailand .
+Hello I'm Nomura Reo, A Vtuber interested in cybersecurity from Thailand.
 Vist me at: [Facebook](https://www.facebook.com/nomurareo) or [Twitter](https://twitter.com/nomura_reo)
